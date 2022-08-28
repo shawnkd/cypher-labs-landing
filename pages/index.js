@@ -9,6 +9,8 @@ export default function Home() {
         <title>cypher labs</title>
         <meta name="description" content="a community for the future" />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="twitter:card" content="a community for the future" />
+        <meta property="og:image" content="/logo.jpg" />
       </Head>
 
       <main className={styles.main}>
